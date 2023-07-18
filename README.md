@@ -1,4 +1,4 @@
-[Das Projekt auf Instagram] (https://www.instagram.com/stories/highlights/17897336498828038/)
+
 # Addition von zwei Zahlen
 Binäre Zahlen lassen sich genauso addieren wie dezimale Zahlen. 
 ![addition](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/d061bd8d-b175-459b-bb1c-6dc746638d45 "Positive Zahlen addieren")
@@ -50,3 +50,6 @@ Der Code für die Ansteuerung [beim 2 Bit Addierer ist hier zu finden](https://g
 
 # Fertige Schaltung mit 2 Bit Addierer und 7 Segment Display
 ![IMG_0215](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/f04bff29-9865-49fc-ba74-a37ed07a3c9a "Fertige Schaltung")
+
+
+Das Projekt auf Instagram: https://www.instagram.com/stories/highlights/17897336498828038/
