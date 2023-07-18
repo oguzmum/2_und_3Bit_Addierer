@@ -1,4 +1,4 @@
-![IMG_0215](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/588d9fc6-4d11-48da-8a88-3803e6dfb12e)# Addition von zwei Zahlen
+# Addition von zwei Zahlen
 Binäre Zahlen lassen sich genauso addieren wie dezimale Zahlen. 
 ![addition](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/d061bd8d-b175-459b-bb1c-6dc746638d45 "Positive Zahlen addieren")
 Da Binäre Zhalen nur als 0 und 1 dastellbar sind, enteht bei 1+1 schon ein Übertrag (im Bild gekennzeichnet mit den kleinen einsen).
