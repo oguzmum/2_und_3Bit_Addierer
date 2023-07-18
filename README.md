@@ -27,7 +27,7 @@ Hier die Skizze der Schaltung:
 ![3 bit addierer skizze](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/e12fc59a-065a-422d-85e3-ebd8e68e8dd1)
 
 ### Lageplan
-Der Lageplan zeigt, welche Logikgatter wo sitzen und wie ich die Eingänge und Ausgänge gewählt habe. Beim 2 Bit Addierer ist das a_2, b_2, und das XOR2 sowie das AND2 ncith in der Schaltung. 
+Der Lageplan zeigt, welche Logikgatter wo sitzen und wie ich die Wertigkeit der Biteingänge gewählt habe. Das MSB (most significant Bit) ist a_2 bzw b_2 und das LSB(least significant) ist a_0 bzw b_0. Beim 2 Bit Addierer ist das a_2, b_2, und das XOR2 sowie das AND2 ncith in der Schaltung. 
 Hier der Lageplan: 
 ![lageplan](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/239d9f7b-bdd4-4259-b8d3-b3313d50c71c "Lageplan")
 Als Logikgatter habe ich die 74LS benutzt.
