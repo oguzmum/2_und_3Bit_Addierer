@@ -16,7 +16,8 @@ Hier die Skizze der Schaltung Schaltung, die blauen Zahlen sind die Pins der Ein
 ![2 bit addierer schaltung](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/fed038e6-e17a-45b8-a5e1-40cc297db556 "2 Bit Addierer Schaltung")
 Welche Pins wo liegen liest man an dem Datenblatt des jeweiligen Gatters ab.
 Beispielsweise ist diese Aufzeichnung aus dem Dateblatt zum 74LS86 (XOR Gatter): 
-![Bildschirmfoto 2023-07-19 um 01 02 59 AM](https://github.com/oguzmum/2_und_3_Bit_Addierer/assets/91074322/2c2e8eb5-5afe-4b7a-b180-193a61659b98 "74LS86 Pins aus dem Datenblatt")
+![74ls86 datasheet](https://github.com/oguzmum/2_und_3_Bit_Addierer/assets/91074322/af0169bb-0842-4584-8b17-9782fe0ec40c "74LS86 Pins aus Datenblatt")
+
 
 Die A's und B's sind die Eingänge und die Y's die Ausgänge. Pin 7 wird an Masse angeschlossen und Pin 14 an Versorgungsspannung.
 
