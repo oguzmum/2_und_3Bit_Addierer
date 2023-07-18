@@ -15,6 +15,9 @@ Der 2 Bit Addierer besteht aus einem Halbaddierer und einem Volladdierer. Man ka
 Hier die Skizze der Schaltung Schaltung, die blauen Zahlen sind die Pins der Ein- und Ausgänge: 
 ![2 bit addierer schaltung](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/fed038e6-e17a-45b8-a5e1-40cc297db556 "2 Bit Addierer Schaltung")
 Welche Pins wo liegen liest man an dem Datenblatt des jeweiligen Gatters ab.
+Beispielsweise ist diese Aufzeichnung aus dem Dateblatt zum 74LS86 (XOR Gatter): 
+![74ls86 datenblatt](https://github.com/oguzmum/2_und_3_Bit_Addierer/assets/91074322/e209c90f-bd41-4063-8e8c-cd0998265f3a "Pins des 74LS86")
+Die A's und B's sind die Eingänge und die Y's die Ausgänge. Pin 7 wird an Masse angeschlossen und Pin 14 an Versorgungsspannung.
 
 Die Fertige Schaltung sieht dann wie folgt aus:
 ![2 bit schaltung echt](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/ab606419-742d-43e0-aefe-f80e50bace6f "2 Bit Addierer")
