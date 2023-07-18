@@ -1,4 +1,4 @@
-# Addition von zwei Zahlen
+![IMG_0215](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/588d9fc6-4d11-48da-8a88-3803e6dfb12e)# Addition von zwei Zahlen
 Binäre Zahlen lassen sich genauso addieren wie dezimale Zahlen. 
 ![addition](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/d061bd8d-b175-459b-bb1c-6dc746638d45 "Positive Zahlen addieren")
 Da Binäre Zhalen nur als 0 und 1 dastellbar sind, enteht bei 1+1 schon ein Übertrag (im Bild gekennzeichnet mit den kleinen einsen).
@@ -22,7 +22,7 @@ Die Fertige Schaltung sieht dann wie folgt aus:
 
 # 3 Bit Addierer
 Der 3 Bit Addierer besteht aus einem Halbaddierer und zwei Volladdierern. Es lassen sich die Zahlen von 0 bis 14 darstellen.
-Im Prinzip erweitert man also die " Bit Addierer Schaltung um einen Voladdierer. Der Übertrag wird in jetzt als Eingang für das XOR und das AND Gatter benutzt.
+Im Prinzip erweitert man also die 2 Bit Addierer Schaltung um einen Voladdierer. Der Übertrag wird in jetzt als Eingang für das XOR und das AND Gatter benutzt.
 Hier die Skizze der Schaltung: 
 ![3 bit addierer skizze](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/e12fc59a-065a-422d-85e3-ebd8e68e8dd1)
 
@@ -41,4 +41,7 @@ Die Logik für das Display habe ich in folgender Tabelle festgehalten:
 ![7segmentdisplay](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/637016ad-9d8a-4203-b787-729926e0d37b "Beschaltung für das 7 Segment Display")
 In dieser Tabelle sind jetzt nur die positiven Zahlen dargestellt. Für die negativen Zahlen habe ich den Punkt unten rechts am Display genutzt ('Ersatz' für das minus Zeichen).
 
-Der Code für die Ansteuerung [beim 2 Bit Addierer ist hier zu finden](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/2BitAddierer_7Segment.ino) und für den [3 Bit Addierer hier.](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/3_bit_addierer_7segDisplay.ino)  
+Der Code für die Ansteuerung [beim 2 Bit Addierer ist hier zu finden](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/2BitAddierer_7Segment.ino "2 Bit Addierer Code") und für den [3 Bit Addierer hier.](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/3_bit_addierer_7segDisplay.ino "3 Bit Addierer Code")  
+
+# Fertige Schaltung mit 2 Bit Addierer und 7 Segment Display
+![IMG_0215](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/f04bff29-9865-49fc-ba74-a37ed07a3c9a "Fertige Schaltung")
