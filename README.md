@@ -41,4 +41,4 @@ Die Logik für das Display habe ich in folgender Tabelle festgehalten:
 ![7segmentdisplay](https://github.com/oguzmum/2_und_3Bit_Addierer/assets/91074322/637016ad-9d8a-4203-b787-729926e0d37b "Beschaltung für das 7 Segment Display")
 In dieser Tabelle sind jetzt nur die positiven Zahlen dargestellt. Für die negativen Zahlen habe ich den Punkt unten rechts am Display genutzt ('Ersatz' für das minus Zeichen).
 
-Der Code für die Ansteuerung [beim 2 Bit Addierer ist hier zu finden] und für den [3 Bit Addierer hier.]  
+Der Code für die Ansteuerung [beim 2 Bit Addierer ist hier zu finden](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/2BitAddierer_7Segment.ino) und für den [3 Bit Addierer hier.](https://github.com/oguzmum/2_und_3Bit_Addierer/blob/main/3_bit_addierer_7segDisplay.ino)  
